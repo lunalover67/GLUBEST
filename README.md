@@ -1,5 +1,5 @@
 # GLUBEST (2025)
-My annoying cats need to be fed all the time, even when im not home! Luckily I engineered a systeme that allows me to watch and feed them from a website!
+My annoying cats need to be fed all the time, even when im not home! Luckily I engineered a systeme that allows me to watch and feed them from a website! Note: this is a protoype, the physical contraption is made of sticks and stones pretty much.
 
 ## tech stack
 - AWS for global server
