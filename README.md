@@ -9,7 +9,7 @@ My annoying cats demand to be fed all the time, even when im not home! Luckily I
 
 ## screenshots (beware there may be some cat photos included)
 
-### the gluttenous queen
+### the gluttenous queen (gif)
 ![glubest-demo (3) (1)](https://github.com/user-attachments/assets/cb2e0a08-939d-4a74-a677-2b02c6d95b2c)
 
 ### main menu (for fun, has music and some pictures to cycle through)  
