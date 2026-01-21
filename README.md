@@ -7,7 +7,7 @@ My annoying cats need to be fed all the time, even when im not home! Luckily I e
 - Web dev (HTML, CSS, JS)
 - Arduino Uno R3 
 
-## screenshots
+## screenshots (beware there may be some cat photos included)
 
 ### silly kitties using the contraption
 <img width="468" height="507" alt="image" src="https://github.com/user-attachments/assets/b042b96d-4a08-4f4c-9e16-93e5ae3ff684" />
