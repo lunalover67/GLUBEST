@@ -11,3 +11,6 @@ My annoying cats need to be fed all the time, even when im not home! Luckily I e
 
 ### silly kitties using the contraption
 <img width="468" height="507" alt="image" src="https://github.com/user-attachments/assets/b042b96d-4a08-4f4c-9e16-93e5ae3ff684" />
+
+### assembling the hardware...
+<img width="959" height="615" alt="image" src="https://github.com/user-attachments/assets/3edc2bab-0ec0-4ef9-9a19-3aa72d47b49a" />
